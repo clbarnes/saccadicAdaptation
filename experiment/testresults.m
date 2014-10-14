@@ -1,0 +1,1 @@
+[H,P] = ttest2(PenalisedHemiCat(1:8),PenalisedHemiCat(end-7:end),[],'right');
